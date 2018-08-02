@@ -43,6 +43,6 @@ bilibili一月播放量最高的15位UP
 
 ![image](https://github.com/iszoop/BilibiliSpider/blob/master/pictures/Blibili%E4%B8%80%E6%9C%88%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E6%8E%92%E8%A1%8C.png)
 
-
+37万原始数据下载地址：https://pan.baidu.com/s/1_NKz0nmQ7ZsjmXRJI1rQ0Q
 
 
